@@ -1,5 +1,5 @@
 # Credit-Score-Prediction
-Deploy ML model to predict customer credit scores , the model helps financial institutions assess creditworthiness, enabling informed lending decisions and risk management."
+Deploy ML model to predict customer credit scores , the model helps financial institutions assess creditworthiness, enabling informed lending decisions and risk management.
 
 * Data Preprocessing: Applied statistical measures, data cleaning, exploration, and feature engineering to prepare the dataset.
 * Data Analysis: Performed correlation analysis, handled outliers and unrealistic values, and balanced the dataset using upsampling techniques.
